@@ -1,0 +1,75 @@
+﻿  estructuraDeDatos.cpp
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\rlutil.h(577,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  funciones.cpp
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\rlutil.h(577,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(137,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(175,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(181,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(187,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(192,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(198,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(204,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(210,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(237,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(238,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(239,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(240,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(289,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(294,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(298,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(303,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(307,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(336,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(337,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(338,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(485,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(486,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(487,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(488,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(536,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(541,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(545,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(550,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(554,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(590,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(591,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(592,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(723,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(724,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(725,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(726,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(935,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1219,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1483,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1484,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1485,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1486,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1633,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1825,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(1983,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2349,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2350,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2351,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2352,28): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2509,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2700,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2814,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3181,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3185,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3190,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3194,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3209,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3213,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3218,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3222,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3274,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3285,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3292,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3293,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3294,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3301,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3302,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(3303,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\estructuraDeDatos\funciones.cpp(2304): warning C4715: 'BuscarNodo': not all control paths return a value
+  estructuraDeDatos.vcxproj -> C:\Users\Alex_Pablo\source\repos\proyecto_1\estructuraDeDatos\x64\Debug\estructuraDeDatos.exe
